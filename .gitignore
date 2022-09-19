@@ -1,0 +1,9 @@
+.idea/
+venv
+
+# postgress data
+data/ 
+
+.DS_Store
+*.DS_Store
+*.pyc
